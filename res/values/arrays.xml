@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="navigation_drawer_entries">
+        <item>@string/category_about_eclipse</item>
+        <item>@string/category_general</item>
+        <item>@string/category_toggles</item>
+        <item>@string/category_statusbar</item>
+        <item>@string/category_battery</item>
+        <item>@string/category_clock</item>
+        <item>@string/category_signal</item>
+    </string-array>
+    <string-array name="navigation_drawer_icons">
+        <item>@drawable/ic_settings_about</item>
+        <item>@drawable/ic_settings_general</item>
+        <item>@drawable/ic_settings_toggles</item>
+        <item>@drawable/ic_settings_statusbar</item>
+        <item>@drawable/ic_settings_battery</item>
+        <item>@drawable/ic_settings_clock</item>
+        <item>@drawable/ic_settings_signal</item>
+    </string-array>
+</resources>
